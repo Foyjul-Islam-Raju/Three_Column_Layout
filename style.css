@@ -17,23 +17,23 @@ body {
 
 
 .header h2 {
-  font-size: 30px;
-  color: #e00938;
+    font-size: 30px;
+    color: #e00938;
 }
 
 .header p {
-  font-size: 20px;
-  color: #081481;
-  font-style: italic;
-  font-weight: bold;
+    font-size: 20px;
+    color: #081481;
+    font-style: italic;
+    font-weight: bold;
 }
 
 .header h2, p {
-  width: 50%;
-  height: 60px;
-  margin: 0;
-  padding: 0;
-  display: inline;
+    width: 50%;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+    display: inline;
 }​
 .header::after{
 	clear: both;
@@ -122,10 +122,10 @@ body {
 }
 
 .footer{
-	padding: 20px;
-	text-align: center;
-	background-color: #ddd;
-	margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    background-color: #ddd;
+    margin-top: 20px;
 }
 .footer{
     display:flex;
